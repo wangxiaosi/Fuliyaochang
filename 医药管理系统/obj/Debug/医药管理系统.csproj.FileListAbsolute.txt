@@ -1,0 +1,68 @@
+c:\users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\bin\Debug\医药管理系统.exe.config
+c:\users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\bin\Debug\医药管理系统.exe
+c:\users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\bin\Debug\医药管理系统.pdb
+c:\users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.Form1.resources
+c:\users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.Properties.Resources.resources
+c:\users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.csproj.GenerateResource.Cache
+c:\users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.exe
+c:\users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.pdb
+c:\users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\bin\Debug\IrisSkin2.dll
+c:\users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.Login.resources
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.main.resources
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\bin\Debug\MySql.Data.dll
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.exe.licenses
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.sale.resources
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.sale_Add.resources
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.sale_Del.resources
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.Good_Del.resources
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.selectCommodity.resources
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.XtraReport1.resources
+C:\Users\159\Documents\Visual Studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.sales_.resources
+C:\Users\159\Documents\Visual Studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.sales_select.resources
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.drug.addDrug.resources
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.kucun.Form_SOdetails.resources
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.kucun.Form_StockIn.resources
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.kucun.Form_StockOut.resources
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.report.out_report.resources
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.csprojResolveAssemblyReference.cache
+C:\Users\159\documents\visual studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.report.jy_report.resources
+C:\Users\159\Documents\Visual Studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.kucun.Form_WarehouseManage.resources
+C:\Users\159\Documents\Visual Studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.sales_select2.resources
+C:\Users\159\Documents\Visual Studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.Limits.addLimits.resources
+C:\Users\159\Documents\Visual Studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.kucun.good_sale_delete.resources
+C:\Users\159\Documents\Visual Studio 2013\Projects\医药管理系统\医药管理系统\obj\Debug\医药管理系统.kucun.Sale_check.resources
+F:\医药管理系统\医药管理系统\bin\Debug\医药管理系统.exe.config
+F:\医药管理系统\医药管理系统\obj\Debug\医药管理系统.exe
+F:\医药管理系统\医药管理系统\obj\Debug\医药管理系统.pdb
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\bin\Debug\医药管理系统.exe.config
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.exe
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.pdb
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\bin\Debug\医药管理系统.exe
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\bin\Debug\医药管理系统.pdb
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.csprojResolveAssemblyReference.cache
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.drug.addDrug.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.Form1.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.kucun.good_sale_delete.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.kucun.Sale_check.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.Good_Del.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.kucun.Form_SOdetails.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.kucun.Form_StockIn.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.kucun.Form_StockOut.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.kucun.Form_WarehouseManage.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.Limits.addLimits.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.Login.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.main.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.Properties.Resources.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.report.jy_report.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.report.out_report.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.sale.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.sales_.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.sales_select2.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.sales_select.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.sale_Add.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.sale_Del.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.selectCommodity.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.XtraReport1.resources
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.csproj.GenerateResource.Cache
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.exe.licenses
+C:\Users\sisi\Desktop\医药管理系统\医药管理系统\obj\Debug\医药管理系统.customer.Form_CustomerManage.resources
